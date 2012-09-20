@@ -3,7 +3,7 @@ CODEF
 
 Canvas Oldskool Demo Effects Framework (javascript / canvas / html5 / demoscene / old school )
 
-Project HomePage -> http://codef.santo.fr
+Project HomePage -> http://codef.santo.fr<br>
 Demo Gallery -> http://www.wab.com
 
 
